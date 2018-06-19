@@ -49,8 +49,6 @@ public class BitcoinJob {
 }
 ```
 
-
-
 ### License
 
 Bitcoin Flink Connector is licensed under the MIT License. See [LICENSE](LICENSE.md) for details.
